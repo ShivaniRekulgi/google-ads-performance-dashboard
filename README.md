@@ -1,5 +1,9 @@
 # Google Ads Performance Dashboard
-
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-003366?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4CAF50?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Analytics-FF6F00?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ## Project Overview
 This project analyzes Google Ads performance across different devices (Mobile, Desktop, Tablet) with a focus on **conversion efficiency and cost optimization**.
 
