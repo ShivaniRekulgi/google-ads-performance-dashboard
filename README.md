@@ -40,6 +40,13 @@ To evaluate:
 - DAX
 - Python (Data Cleaning)
 
+## Dashboard Features
+- Interactive slicers for Device
+- Dynamic dashboard title reflecting selected Device
+- Scatter plot for analyzing volume vs efficiency
+- Custom tooltip for detailed device-level insights
+- Consistent color-coded metrics for better readability
+
 ## Dashboard Preview
 <img width="1803" height="1021" alt="Dashboard" src="https://github.com/user-attachments/assets/f9bcfbc7-e7bd-4656-9191-5d1d2030aedf" />
 
