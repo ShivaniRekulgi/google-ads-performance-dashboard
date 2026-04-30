@@ -76,5 +76,4 @@ IF(
 <img width="2059" height="1161" alt="image" src="https://github.com/user-attachments/assets/159d9d4d-f577-4ba5-89e2-b0a43a5fbc71" />
 
 ## Conclusion
-This dashboard provides a structured view of ad performance, highlighting that while volume differs across devices, efficiency remains relatively consistent. Since performance differences are small, optimization efforts should focus on improving cost efficiency and conversions rather than making big changes. Extending this dashboard to 3–6 months of data would enable seasonality analysis and more confident budget reallocation decisions.
-
+This dashboard provides a structured view of November 2024 Google Ads performance. Conversion efficiency is stable across devices (4.7–4.8%), while CPA differences are marginal (₹32.5–₹33.0). Mobile generates the most clicks but converts at the same rate as Desktop and Tablet, indicating that higher traffic alone does not improve outcomes. Extending this analysis to 3–6 months would enable seasonality detection and more confident budget reallocation decisions.
