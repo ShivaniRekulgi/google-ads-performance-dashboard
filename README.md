@@ -76,4 +76,6 @@ IF(
 <img width="2059" height="1161" alt="image" src="https://github.com/user-attachments/assets/159d9d4d-f577-4ba5-89e2-b0a43a5fbc71" />
 
 ## Conclusion
-This dashboard provides a structured view of November 2024 Google Ads performance. Conversion efficiency is stable across devices (4.7–4.8%), while CPA differences are marginal (₹32.5–₹33.0). Mobile generates the most clicks but converts at the same rate as Desktop and Tablet, indicating that higher traffic alone does not improve outcomes. Extending this analysis to 3–6 months would enable seasonality detection and more confident budget reallocation decisions.
+This dashboard analyzes Google Ads performance for November 2024 across three devices — Desktop, Mobile, and Tablet. All three devices show similar conversion rates (4.7–4.8%) and close CPA values (₹32.5–₹33.0), meaning no single device significantly outperforms the others. Mobile attracts the most clicks but does not convert better, suggesting that more traffic alone does not guarantee better results. Desktop shows the lowest CPA (₹32.6), making it the most cost-efficient device — shifting more budget towards Desktop could improve overall campaign efficiency. A longer dataset of 3–6 months would help identify patterns and guide smarter budget decisions.
+
+
