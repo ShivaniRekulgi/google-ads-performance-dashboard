@@ -73,7 +73,7 @@ IF(
 - Consistent color-coded metrics for better readability
 
 ## Dashboard Preview
-<img width="1803" height="1021" alt="Dashboard" src="https://github.com/user-attachments/assets/f9bcfbc7-e7bd-4656-9191-5d1d2030aedf" />
+<img width="2059" height="1161" alt="image" src="https://github.com/user-attachments/assets/159d9d4d-f577-4ba5-89e2-b0a43a5fbc71" />
 
 ## Conclusion
 This dashboard provides a structured view of ad performance, highlighting that while volume differs across devices, efficiency remains relatively consistent. Since performance differences are small, optimization efforts should focus on improving cost efficiency and conversions rather than making big changes. Extending this dashboard to 3–6 months of data would enable seasonality analysis and more confident budget reallocation decisions.
