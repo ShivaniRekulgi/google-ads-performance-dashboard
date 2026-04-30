@@ -34,6 +34,7 @@ To evaluate:
 ## Data Limitations
 - Revenue was not available in the dataset and was simulated for demonstration purposes.
 - Due to this, profitability metrics like ROAS were not used for decision-making.
+- Dataset covers a single month of Google Ads data, limiting long-term trend analysis. Monthly comparisons are not possible with this dataset.
 
 ## Tools Used
 - Power BI
@@ -41,6 +42,7 @@ To evaluate:
 - Python (Data Cleaning)
 
 ## Dashboard Features
+- Daily trend analysis (Clicks, Conversions, CPA over 30-day period)
 - Interactive slicers for Device
 - Dynamic dashboard title reflecting selected Device
 - Scatter plot for analyzing volume vs efficiency
@@ -51,5 +53,5 @@ To evaluate:
 <img width="1803" height="1021" alt="Dashboard" src="https://github.com/user-attachments/assets/f9bcfbc7-e7bd-4656-9191-5d1d2030aedf" />
 
 ## Conclusion
-This dashboard provides a structured view of ad performance, highlighting that while volume differs across devices, efficiency remains relatively consistent. Since performance differences are small, optimization efforts should focus on improving cost efficiency and conversions rather than making big changes.
+This dashboard provides a structured view of ad performance, highlighting that while volume differs across devices, efficiency remains relatively consistent. Since performance differences are small, optimization efforts should focus on improving cost efficiency and conversions rather than making big changes. Extending this dashboard to 3–6 months of data would enable seasonality analysis and more confident budget reallocation decisions.
 
