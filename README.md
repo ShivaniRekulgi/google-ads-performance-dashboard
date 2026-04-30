@@ -25,6 +25,29 @@ To evaluate:
 - Conversion Rate (%)
 - Cost per Conversion (CPA)
 
+## DAX Measures
+### Conversion Rate %
+```dax
+Conversion Rate % = DIVIDE(
+    [Total Conversions],
+    [Total Clicks])
+```
+### Cost Per Conversion (CPA)
+```dax
+Cost per Conversion (₹) = 
+DIVIDE(
+    [Total Cost (₹)],
+    [Total Conversions])
+```
+### Dynamic Dashboard Title
+```dax
+Dynamic Title = "Google Ads Performance | Device: " & 
+IF(
+    HASONEVALUE('Ads'[Device]),
+    VALUES('Ads'[Device]),
+    "All Devices")
+```
+
 ## Key Insights
 - Mobile generates the highest traffic but does not significantly outperform in conversions, indicating lower efficiency.
 - Desktop shows slightly better performance with higher conversion rate and lower CPA.
@@ -39,7 +62,7 @@ To evaluate:
 ## Tools Used
 - Power BI
 - DAX
-- Python (Data Cleaning)
+- Python (Data Cleaning) — see `data_cleaning.py`
 
 ## Dashboard Features
 - Daily trend analysis (Clicks, Conversions, CPA over 30-day period)
